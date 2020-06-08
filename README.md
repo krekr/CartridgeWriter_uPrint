@@ -1,15 +1,16 @@
 # Cartridge Writer for uPrint
 
-Cartridge Writer for uPrint is a Windows program for reading and writing the
+Cartridge Writer for uPrint SE is a Windows program for reading and writing the
 DS2433 chip from the printer cartridges of a Stratasys uPrint, uPrint plus and uPrint SE, by just using a serial cable.
 
-The program is written in C# and consits mostly of the Cartridge Writer program from David Slyton:
+The program is written in C# and is just a simple edit to add the "SE" machine type per https://github.com/bvanheu/stratatools/commit/41accb5cc35dfcbb94298694bc5f60aaaa82307c
+It consits mostly of the Cartridge Writer program from David Slyton:
 https://github.com/slaytonrnd/CartridgeWriter
 Which is based on the tool from Benjamin Vanheuverzwin:
 	https://github.com/bvanheu/stratasys
 
 ## Running CartridgeWriter.exe
-CartridgeWriter.exe can be downloaded as a part of the CartridgeWriter for uPrint repository
+CartridgeWriter for uPrint SE.exe can be downloaded as a part of the CartridgeWriter for uPrint repository
 and is located in the Release directory of the repository.  
 
 #### Set up the following before running:
@@ -36,7 +37,7 @@ and is located in the Release directory of the repository.
 
 ### Note: 
 	
-In the standart configuration, the programm automatically sets the current qunatity to the inital quantity,
+In the standard configuration, the programm automatically sets the current qunatity to the inital quantity,
 so the eeprom is automatically filled up to 100%.
 
 **You can only reset the Eeproms, if the quantity isn't complete down, otherwise the chip is set in the readonly mode and can't be rewritten anymore.**
