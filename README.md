@@ -4,6 +4,7 @@ Cartridge Writer for uPrint SE is a Windows program for reading and writing the
 DS2433 chip from the printer cartridges of a Stratasys uPrint, uPrint plus and uPrint SE, by just using a serial cable.
 
 The program is written in C# and is just a simple edit to add the "SE" machine type per https://github.com/bvanheu/stratatools/commit/41accb5cc35dfcbb94298694bc5f60aaaa82307c
+
 It consits mostly of the Cartridge Writer program from David Slyton:
 https://github.com/slaytonrnd/CartridgeWriter
 Which is based on the tool from Benjamin Vanheuverzwin:
