@@ -49,3 +49,20 @@ G:\CartridgeWriter_uPrint_final\CartridgeWriter\obj\Release\CartridgeWriter for 
 G:\CartridgeWriter_uPrint_final\CartridgeWriter\obj\Release\CartridgeWriter for uPrint.exe
 G:\CartridgeWriter_uPrint_final\CartridgeWriter\obj\Release\CartridgeWriter for uPrint.pdb
 G:\CartridgeWriter_uPrint_final\CartridgeWriter\obj\Release\CartridgeWriter.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter.baml
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter.g.cs
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\App.g.cs
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter.Properties.Resources.resources
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\Release\CartridgeWriter for uPrint SE.exe.config
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\Release\CartridgeWriter for uPrint SE.exe.manifest
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\Release\CartridgeWriter for uPrint SE.application
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\Release\CartridgeWriter for uPrint SE.exe
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\Release\CartridgeWriter for uPrint SE.pdb
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter for uPrint SE_MarkupCompile.cache
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter for uPrint SE.g.resources
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter for uPrint SE.exe.manifest
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter for uPrint SE.application
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter for uPrint SE.exe
+C:\Users\user\Desktop\EEPROM-uprint\CartridgeWriter_uPrint-master\CartridgeWriter\obj\Release\CartridgeWriter for uPrint SE.pdb

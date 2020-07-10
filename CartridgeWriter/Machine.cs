@@ -38,8 +38,9 @@ namespace CartridgeWriter
     {
         private static readonly IEnumerable<Machine> Machines = new List<Machine>
         {
-			new Machine {Number = new byte[8] {0xF3, 0xA9, 0x1D, 0xBE, 0x6B, 0x0B, 0x22, 0x55}, Type = "uPrint / uPrint Plus"},
-			//new Machine {Number = new byte[8] {0x6B, 0x2A, 0x26, 0x8B, 0x5E, 0xD3, 0x37, 0x4A}, Type = "uprintse"}
+			new Machine {Number = new byte[8] {0xF3, 0xA9, 0x1D, 0xBE, 0x6B, 0x0B, 0x22, 0x55}, Type = "uPrint / uPrint Plus"}, //original
+			//new Machine {Number = new byte[8] {0x6B, 0x2A, 0x26, 0x8B, 0x5E, 0xD3, 0x37, 0x4A}, Type = "uPrint SE 6B 2A 26 8B 5E D3 37 4A"}, //commented out originally
+            new Machine {Number = new byte[8] {0x09, 0xFB, 0xD4, 0xB6, 0x1F, 0xC0, 0xB3, 0x27}, Type = "uPrint SE (Plus) 09 FB D4 B6 1F C0 B3 27"} //from https://github.com/bvanheu/stratatools/commit/41accb5cc35dfcbb94298694bc5f60aaaa82307c // checked and works with my uPrintSE Plus
         };
 
         private Machine() { }
